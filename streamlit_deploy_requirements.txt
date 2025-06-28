@@ -1,0 +1,7 @@
+streamlit>=1.46.0
+requests>=2.32.4
+numpy>=1.24.0
+pandas>=2.1.0
+plotly>=6.1.2
+trafilatura>=2.0.0
+beautifulsoup4>=4.13.4

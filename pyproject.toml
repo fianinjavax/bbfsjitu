@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "bbfs-4d-6digit-pro"
+version = "1.0.0"
+description = "BBFS 4D 6-Digit Pro - Advanced lottery prediction system"
+authors = ["Developer <dev@example.com>"]
+package-mode = false
+packages = []
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.46.0"
+requests = "^2.32.4"
+numpy = "^1.24.0"
+pandas = "^2.1.0"
+plotly = "^6.1.2"
+trafilatura = "^2.0.0"
+beautifulsoup4 = "^4.13.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
